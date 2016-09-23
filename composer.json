@@ -1,5 +1,5 @@
 {
-    "name": "cirdan/sfLocoI18nPlugin",
+    "name": "cirdan/sf-loco-i18n-plugin",
     "type": "symfony1-plugin",
     "description": "Plugin to use localize.biz webservice",
     "keywords": ["i18n","loco"],
