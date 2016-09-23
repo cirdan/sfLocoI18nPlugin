@@ -1,0 +1,19 @@
+{
+    "name": "cirdan/sfLocoI18nPlugin",
+    "type": "symfony1-plugin",
+    "description": "Plugin to use localize.biz webservice",
+    "keywords": ["i18n","loco"],
+    "homepage": "https://github.com/cirdan/sfLocoI18nPlugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sylvain Ferlac",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "symfony": "1.4",
+        "composer/installers": "~1.0"
+    }
+}
