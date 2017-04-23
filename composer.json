@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "symfony": "1.4",
+        "lexpress/symfony1": "1.5.*",
         "composer/installers": "~1.0"
     }
 }
